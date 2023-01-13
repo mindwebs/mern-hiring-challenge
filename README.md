@@ -16,7 +16,7 @@ The zone however looks like a piece of pie with the parent server (providing dat
 
 Now Keshav decides to make the most effective use of the plot and implement his solution using Tree Topology to accommodate the entire area. Each device (node) he has devised in a way that is capable of taking the internet from one device in one direction and again stream the internet to 2 or more devices in the other three directions. Here's what he has planned so far. 
 
-![2](https://user-images.githubusercontent.com/38533808/212271661-d35e29b5-e49f-46ac-8ee7-c8c6d15f7208.png)
+![2](https://user-images.githubusercontent.com/38533808/212350337-aaf20cca-6520-49ed-8398-0382def4d430.png)
 
 But the municipal corporation wants to visualise and understand faults happening across the street light system using a web dashboard. **Keshav having no idea of web development seeks your help in assisting him to build a web dashboard for the same.** 
 
@@ -30,7 +30,7 @@ But the municipal corporation wants to visualise and understand faults happening
 
 Keshav however hopes to help you with the following hand drawn sketch of what he is willing to see. 
 
-![3](https://user-images.githubusercontent.com/38533808/212271694-7bc6056a-523b-4116-94fa-43dd18b23053.png)
+![3](https://user-images.githubusercontent.com/38533808/212350379-872469ea-280b-4b41-892b-e0c77ab543c6.png)
 <p align="center">If a node goes down, all its child nodes also become down.</p>
 
 **Bonus Part -**
